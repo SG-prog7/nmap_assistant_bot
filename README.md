@@ -19,8 +19,8 @@
 • 80/tcp → http
 • 443/tcp → https
 
-/probe google.com \n
-Status: 200 \n
+/probe google.com.
+Status: 200.
 Server: gws
 🛡️ Security Headers:
 ✅ X-Frame-Options: OK
