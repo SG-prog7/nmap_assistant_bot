@@ -18,19 +18,28 @@
 ✅ Открытые порты:
 
 • 22/tcp → ssh
+
 • 80/tcp → http
+
 • 443/tcp → https
+
 
 /probe google.com
 
 Status: 200
 
 Server: gws
+
 🛡️ Security Headers:
+
 ✅ X-Frame-Options: OK
+
 ❌ Content-Security-Policy: Missing
+
 ✅ X-Content-Type-Options: OK
+
 ✅ X-XSS-Protection: OK
+
 ✅ Strict-Transport-Security: OK
 
 
